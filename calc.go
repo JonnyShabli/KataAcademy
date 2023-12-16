@@ -8,6 +8,8 @@ import (
 	"strings"
 )
 
+//gitHub test
+
 func main() {
 	reader := bufio.NewReader(os.Stdin)
 
